@@ -1,15 +1,32 @@
+-- memo perso
+
 ctrl + alt + p : (control panel)
-
 ctrl + alt + a : (alignment)
-
 ctrl + shift + c : fenêtre de choix de couleur système(ColorPicker)
-
 ctrl + alt + f : indenter js ou json (JsFormat)
-
 ctrl + alt + n : créer un nouveau fichier (advancedNewFile)
-
 lorem + tab : création d'un paragraphe commencant par lorem ipsum
-
 ctrl + alt + r : reindent
-
 alt + space : code_intel_auto_complete (SublimeCodeIntel)
+
+
+-- source externe
+
+Ctrl + P : Accès rapide aux fichiers (on peut également positionner le curseur à une certaine ligne en tapant “:NuméroDeLaLigne” ou bien positionner le curseur devant un mot en utilisant “#LeMot“)
+Ctrl + G : Accès au numéro de ligne
+Ctrl + R : Accès direct par terme (par ex liste des sélecteurs en CSS)
+Ctrl + Shift + D : Dupliquer une ligne
+Ctrl + Shift + F : Recherche dans les fichiers du projet
+Ctrl + H : Remplacer
+Ctrl + X : Supprimer la ligne
+ctrl + / : Mettre en commentaires (PHP, HTML, …)
+Ctrl + Shift + / : Mettre en commentaires (PHP, HTML, …)
+Ctrl + D : Sélectionner l’occurrence identique suivante
+Alt + F3 : Sélectionner toutes les occurrences
+Ctrl + Shift + M : Sélectionner tout entre les parenthèses/accolades
+Ctrl + PageUp/PageDown : Se déplacer dans les onglets
+Ctrl + Shift + T : Réouvrir le dernier onglet fermé
+Alt + Shift + 1/2/3/4/5 : Vues splittées
+Ctrl + F2 : Placer un signet. F2 : Aller au signet suivant
+Ctrl + KU ou Ctrl + KL: Met le texte sélectionné en uppercase/lowercase
+F9 : tri par ordre alphabétique
