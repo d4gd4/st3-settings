@@ -9,6 +9,8 @@
 		"Alignment",
 		"ColorPicker",
 		"Emmet",
+		"GitGutter",
+		"jQuery",
 		"JsFormat",
 		"Language - French - Français",
 		"LoremIpsum",
@@ -16,6 +18,8 @@
 		"PlainTasks",
 		"SCSS",
 		"SideBarEnhancements",
-		"SublimeCodeIntel"
+		"SublimeCodeIntel",
+		"SublimeLinter-php",
+		"Theme - Afterglow"
 	]
 }
