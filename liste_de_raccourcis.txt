@@ -1,0 +1,11 @@
+ctrl + alt + p : (control panel)
+
+ctrl + alt + a : (alignment)
+
+ctrl + shift + c : fenêtre de choix de couleur système(ColorPicker)
+
+ctrl + alt + f : indenter js ou json (JsFormat)
+
+ctrl + alt + n : créer un nouveau fichier (advancedNewFile)
+
+lorem + tab : création d'un paragraphe commencant par lorem ipsum
