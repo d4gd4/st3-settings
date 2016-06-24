@@ -1,3 +1,27 @@
 [
-    { "keys": ["ctrl+alt+l"], "command": "sublimelinter_lint" }
+	// File management
+	{
+		"keys": ["ctrl+shift+r"],
+		"command": "reindent"
+	},
+	{
+		"keys": ["alt+space"],
+		"command": "code_intel_auto_complete"
+	},
+
+	// Side bar management
+	{
+		"keys": ["f2"],
+		"command": "side_bar_rename"
+	},
+
+	// Console management
+	{
+		"keys": ["ctrl+w"],
+		"command": "show_panel",
+		"args": {
+			"panel": "console", "toggle": true
+		}
+	},
+
 ]
