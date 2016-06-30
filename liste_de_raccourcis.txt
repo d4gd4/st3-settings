@@ -1,11 +1,11 @@
--- memo perso
+-- mémo perso
 
 ctrl + alt + p : (control panel)
 ctrl + alt + a : (alignment)
 ctrl + shift + c : fenêtre de choix de couleur système(ColorPicker)
 ctrl + alt + f : indenter js ou json (JsFormat)
 ctrl + alt + n : créer un nouveau fichier (advancedNewFile)
-lorem + tab : création d'un paragraphe commencant par lorem ipsum
+lorem + tab : création d'un paragraphe commençant par lorem ipsum
 ctrl + alt + r : reindent
 alt + space : code_intel_auto_complete (SublimeCodeIntel)
 
@@ -25,7 +25,7 @@ Ctrl + D : Sélectionner l’occurrence identique suivante
 Alt + F3 : Sélectionner toutes les occurrences
 Ctrl + Shift + M : Sélectionner tout entre les parenthèses/accolades
 Ctrl + PageUp/PageDown : Se déplacer dans les onglets
-Ctrl + Shift + T : Réouvrir le dernier onglet fermé
+Ctrl + Shift + T : Ré-ouvrir le dernier onglet fermé
 Alt + Shift + 1/2/3/4/5 : Vues splittées
 Ctrl + F2 : Placer un signet. F2 : Aller au signet suivant
 Ctrl + KU ou Ctrl + KL: Met le texte sélectionné en uppercase/lowercase
