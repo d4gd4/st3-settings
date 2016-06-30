@@ -1,0 +1,13 @@
+<snippet>
+	<content><![CDATA[
+<!--[repeatstart[rpt_${1:nomZone}]]-->
+${2:zone}
+<!--[repeatstart[rpt_${1:nomZone}]]-->
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>zr</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>text.html</scope>
+	<!-- Optional: Description to show in the menu -->
+    <description>Zone répétée (HTML:PointSYS)</description>
+</snippet>
