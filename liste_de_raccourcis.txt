@@ -2,7 +2,7 @@
 
 ctrl + alt + p : (control panel)
 ctrl + alt + a : (alignment)
-ctrl + shift + c : (//= + space + word) habiller un commentaire (Center Comment)
+ctrl + shift + c : (//= + space + words) habiller un commentaire (Center Comment)
 ctrl + alt + f : indenter js ou json (JsFormat)
 ctrl + alt + n : créer un nouveau fichier (advancedNewFile)
 lorem + tab : création d'un paragraphe commençant par lorem ipsum

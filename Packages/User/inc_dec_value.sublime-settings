@@ -1,0 +1,9 @@
+{
+	"user_enums": [
+        ["oui", "non"],
+
+    	["lun", "mar", "mer", "jeu", "ven", "sam", "dim"],
+    	["lundi", "mardi", "mercredi", "jeudi", "vendredi", "samedi", "dimanche"],
+    	["janvier", "février", "mars", "avril", "mai", "juin", "juillet", "août", "septembre", "octobre", "novembre", "décembre"]
+	]
+}

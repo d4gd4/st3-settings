@@ -23,4 +23,31 @@
 			"toggle": true
 		}
 	},
+
+	// SublimeLint
+	{
+		"keys": ["ctrl+alt+l", "l"],
+		"command": "sublimelinter_lint"
+	}, {
+		"keys": ["ctrl+alt+l", "n"],
+		"command": "sublimelinter_goto_error",
+		"args": {
+			"direction": "next"
+		}
+	}, {
+		"keys": ["ctrl+alt+l", "p"],
+		"command": "sublimelinter_goto_error",
+		"args": {
+			"direction": "previous"
+		}
+	}, {
+		"keys": ["ctrl+alt+l", "a"],
+		"command": "sublimelinter_show_all_errors"
+	}, {
+		"keys": ["ctrl+alt+l", "t"],
+		"command": "sublimelinter_toggle_linter",
+		"args": {
+			"which": "all"
+		}
+	}
 ]
