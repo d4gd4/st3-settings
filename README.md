@@ -7,6 +7,7 @@ This repo allows you to quickly install a fully configured Sublime Text 3 with:
  - the awesome [Package Control](https://github.com/wbond/sublime_package_control)
  - useful packages for web development
  - a custom keymap
+ - custom snippets
  - custom preferences
  - custom builds
 
