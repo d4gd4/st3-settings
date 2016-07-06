@@ -49,5 +49,11 @@
 		"args": {
 			"which": "all"
 		}
+	},
+
+	// Center Comment
+	{
+		"keys": ["ctrl+shift+c"],
+		"command": "center_comment"
 	}
 ]
