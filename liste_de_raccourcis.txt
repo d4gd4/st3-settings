@@ -8,7 +8,7 @@ ctrl + alt + n : créer un nouveau fichier (advancedNewFile)
 lorem + tab : création d'un paragraphe commençant par lorem ipsum
 ctrl + alt + r : reindent
 alt + space : code_intel_auto_complete (SublimeCodeIntel)
-clic molette + sélection : multiple focus
+clic molette + sélection (ou ctrl + clic gauche) : multiple focus
 
 
 -- source externe
