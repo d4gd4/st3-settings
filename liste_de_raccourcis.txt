@@ -32,4 +32,5 @@ Ctrl + F2 : Placer un signet. F2 : Aller au signet suivant
 Ctrl + KU ou Ctrl + KL: Met le texte sélectionné en uppercase/lowercase
 F9 : tri par ordre alphabétique
 
-*
+
+(pour la gestion de mot de passe sous windows voir Panneau de configuration\Tous les Panneaux de configuration\Gestionnaire d'identification)
