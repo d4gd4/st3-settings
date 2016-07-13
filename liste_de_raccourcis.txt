@@ -31,5 +31,3 @@ Alt + Shift + 1/2/3/4/5/8/9 : Vues splittées
 Ctrl + F2 : Placer un signet. F2 : Aller au signet suivant
 Ctrl + KU ou Ctrl + KL: Met le texte sélectionné en uppercase/lowercase
 F9 : tri par ordre alphabétique
-
-.
