@@ -8,7 +8,7 @@
 Installed Packages/*
 !Installed Packages/Package Control.sublime-package
 
-# Garder les raccourcis clavier, les préférences et les builds
+# Garder les raccourcis clavier, les préférences, les builds et les snippets
 !Packages
 Packages/*
 !Packages/User
@@ -19,3 +19,8 @@ Packages/User/*
 !Packages/User/Snippets
 Packages/User/Snippets/*
 !Packages/User/Snippets/*.sublime-snippet
+
+# Garder les assets du plugin Random Everything
+!Packages/Random Everything/assets
+Packages/Random Everything/assets/*
+!Packages/Random Everything/assets/*.txt
