@@ -17,7 +17,7 @@ Ctrl + P : Accès rapide aux fichiers (on peut également positionner le curseur
 Ctrl + G : Accès au numéro de ligne
 Ctrl + R : Accès direct par terme (par ex liste des sélecteurs en CSS)
 Ctrl + Shift + D : Dupliquer une ligne
-Ctrl + Shift + F : Recherche dans les fichiers du projet
+Ctrl + Shift + F : Recherche dans les fichiers du dossier parent
 Ctrl + H : Remplacer
 Ctrl + X : Supprimer la ligne
 ctrl + / : Mettre en commentaires (PHP, HTML, …)

@@ -1,4 +1,6 @@
 [
+	{ "keys": ["ctrl+o"], "command": "prompt_open_folder" },
+
 	// File management
 	{
 		"keys": ["ctrl+shift+r"],
