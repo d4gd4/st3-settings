@@ -7,7 +7,7 @@
 	"auto_indent": true,
 	"bold_folder_labels": true,
 	"color_inactive_tabs": true,
-	"color_scheme": "Packages/User/SublimeLinter/Afterglow-monokai (SL).tmTheme",
+	"color_scheme": "Packages/User/SublimeLinter/Monokai (SL).tmTheme",
 	"copy_with_empty_selection": false,
 	"detect_indentation": true,
 	"detect_slow_plugins": false,
@@ -24,9 +24,10 @@
 	"smart_indent": true,
 	"status_bar_brighter": true,
 	"tab_size": 4,
-	"tabs_medium": true,
+	"tabs_small": true,
 	"theme": "Afterglow.sublime-theme",
 	"translate_tabs_to_spaces": false,
 	"trim_trailing_white_space_on_save": true,
-	"word_wrap": false
+	"word_wrap": false,
+	"draw_minimap_border": true
 }

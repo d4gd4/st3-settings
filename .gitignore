@@ -16,6 +16,7 @@ Packages/User/*
 !Packages/User/*.sublime-keymap
 !Packages/User/*.sublime-settings
 !Packages/User/*.sublime-build
+!Packages/User/*.sublime-theme
 !Packages/User/Snippets
 Packages/User/Snippets/*
 !Packages/User/Snippets/*.sublime-snippet
