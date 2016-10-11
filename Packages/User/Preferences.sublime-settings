@@ -5,6 +5,25 @@
 		"évènements"
 	],
 	"auto_indent": true,
+	"folder_exclude_patterns": ["node_modules", "nbproject", "*.git"],
+	"binary_file_patterns":
+	[
+		"*.dds",
+		"*.eot",
+		"*.gif",
+		"*.ico",
+		"*.jar",
+		"*.jpeg",
+		"*.jpg",
+		"*.pdf",
+		"*.png",
+		"*.swf",
+		"*.tga",
+		"*.ttf",
+		"*.zip",
+		"*.css.map",
+		"grunt-tasks/**"
+	],
 	"bold_folder_labels": true,
 	"color_inactive_tabs": true,
 	"color_scheme": "Packages/User/SublimeLinter/Afterglow-monokai (SL).tmTheme",
