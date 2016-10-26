@@ -5,7 +5,6 @@
 		"évènements"
 	],
 	"auto_indent": true,
-	"folder_exclude_patterns": ["node_modules", "nbproject", "*.git"],
 	"binary_file_patterns":
 	[
 		"*.dds",
@@ -33,6 +32,12 @@
 	"dictionary": "Packages/Language - French - Français/fr_FR.dic",
 	"draw_minimap_border": false,
 	"ensure_newline_at_eof_on_save": true,
+	"folder_exclude_patterns":
+	[
+		"node_modules",
+		"nbproject",
+		"*.git"
+	],
 	"font_size": 10,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
