@@ -7,6 +7,7 @@
 	"auto_indent": true,
 	"binary_file_patterns":
 	[
+		"*.css.map",
 		"*.dds",
 		"*.eot",
 		"*.gif",
@@ -20,7 +21,6 @@
 		"*.tga",
 		"*.ttf",
 		"*.zip",
-		"*.css.map",
 		"grunt-tasks/**"
 	],
 	"bold_folder_labels": true,

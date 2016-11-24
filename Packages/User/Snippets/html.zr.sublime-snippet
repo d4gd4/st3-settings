@@ -2,7 +2,7 @@
 	<content><![CDATA[
 <!--[repeatstart[rpt_${1:nomZone}]]-->
 ${2:zone}
-<!--[repeatstart[rpt_${1:nomZone}]]-->
+<!--[repeatend[rpt_${1:nomZone}]]-->
 ]]></content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
 	<tabTrigger>zr</tabTrigger>
