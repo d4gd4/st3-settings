@@ -5,7 +5,16 @@
 		"évènements"
 	],
 	"auto_indent": true,
-	"binary_file_patterns":
+	"bold_folder_labels": true,
+	"color_inactive_tabs": true,
+	"color_scheme": "Packages/User/SublimeLinter/Afterglow-monokai (SL).tmTheme",
+	"copy_with_empty_selection": false,
+	"detect_indentation": true,
+	"detect_slow_plugins": false,
+	"dictionary": "Packages/Language - French - Français/fr_FR.dic",
+	"draw_minimap_border": false,
+	"ensure_newline_at_eof_on_save": true,
+	"file_exclude_patterns":
 	[
 		"*.css.map",
 		"*.dds",
@@ -21,24 +30,16 @@
 		"*.tga",
 		"*.ttf",
 		"*.zip",
-		"grunt-tasks/**"
+		"*.log",
+		"*.sublime-*"
 	],
-	"bold_folder_labels": true,
-	"color_inactive_tabs": true,
-	"color_scheme": "Packages/User/SublimeLinter/Afterglow-monokai (SL).tmTheme",
-	"copy_with_empty_selection": false,
-	"detect_indentation": true,
-	"detect_slow_plugins": false,
-	"dictionary": "Packages/Language - French - Français/fr_FR.dic",
-	"draw_minimap_border": false,
-	"ensure_newline_at_eof_on_save": true,
 	"folder_exclude_patterns":
 	[
 		"node_modules",
 		"nbproject",
-		"*.git"
+		".git"
 	],
-	"font_size": 10,
+	"font_size": 9,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
 	"ignored_packages":
