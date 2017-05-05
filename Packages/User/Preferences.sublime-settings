@@ -4,6 +4,8 @@
 		"évènement",
 		"évènements"
 	],
+	"auto_complete_commit_on_tab": true,
+	"auto_complete_with_fields": true,
 	"auto_indent": true,
 	"bold_folder_labels": true,
 	"color_inactive_tabs": true,
@@ -44,8 +46,10 @@
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
+		"CSS",
 		"Vintage"
 	],
+	"show_css_completions": false,
 	"show_encoding": true,
 	"smart_indent": true,
 	"status_bar_brighter": true,
