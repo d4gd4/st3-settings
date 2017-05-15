@@ -7,7 +7,7 @@ ${2:zone}
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
 	<tabTrigger>zo</tabTrigger>
 	<!-- Optional: Set a scope to limit where the snippet will trigger -->
-	<scope>text.html</scope>
+	<scope>text.html, source.sql</scope>
 	<!-- Optional: Description to show in the menu -->
     <description>Zone facultative / optionelle (HTML:PointSYS)</description>
 </snippet>
