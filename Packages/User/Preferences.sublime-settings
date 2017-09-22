@@ -14,7 +14,8 @@
 	"detect_indentation": true,
 	"detect_slow_plugins": false,
 	"dictionary": "Packages/Language - French - Français/fr_FR.dic",
-	"draw_minimap_border": false,
+    "always_show_minimap_viewport": true,
+    "draw_minimap_border": false,
 	"ensure_newline_at_eof_on_save": true,
 	"file_exclude_patterns":
 	[
