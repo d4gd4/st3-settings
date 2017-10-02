@@ -4,6 +4,7 @@
 		"évènement",
 		"évènements"
 	],
+	"always_show_minimap_viewport": true,
 	"auto_complete_commit_on_tab": true,
 	"auto_complete_with_fields": true,
 	"auto_indent": true,
@@ -14,8 +15,7 @@
 	"detect_indentation": true,
 	"detect_slow_plugins": false,
 	"dictionary": "Packages/Language - French - Français/fr_FR.dic",
-    "always_show_minimap_viewport": true,
-    "draw_minimap_border": false,
+	"draw_minimap_border": false,
 	"ensure_newline_at_eof_on_save": true,
 	"file_exclude_patterns":
 	[
@@ -48,7 +48,7 @@
 	"ignored_packages":
 	[
 	],
-	"show_css_completions": false,
+	"show_css_completions": true,
 	"show_encoding": true,
 	"smart_indent": true,
 	"status_bar_brighter": true,

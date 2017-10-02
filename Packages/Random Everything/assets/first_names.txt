@@ -89,7 +89,6 @@ Aliénor
 Aliette
 Aline
 Alix
-Alix
 Alizé
 Almine
 Almire
@@ -152,7 +151,6 @@ Anicée
 Anicet
 Anicette
 Annabelle
-Anne
 Anne
 Annette
 Annibal
@@ -551,7 +549,6 @@ Irène
 Irina
 Iris
 Isabeau
-Isabeau
 Isabelle
 Iseult
 Isidore
@@ -812,7 +809,6 @@ Sandrine
 Sarah
 Sauveur
 Savin
-Scholastique
 Scholastique
 Sébastien
 Ségolène
