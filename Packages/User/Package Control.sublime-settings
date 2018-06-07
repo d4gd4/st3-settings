@@ -7,7 +7,7 @@
 	[
 		"AdvancedNewFile",
 		"Alignment",
-		"ApacheConf.tmLanguage",
+		"ApacheConf",
 		"BracketHighlighter",
 		"Center Comment",
 		"Color Highlighter",
@@ -33,9 +33,9 @@
 		"Sublime Tutor",
 		"SublimeCodeIntel",
 		"SublimeLinter",
+		"SublimeLinter-contrib-jslint",
 		"SublimeLinter-contrib-scss-lint",
 		"SublimeLinter-csslint",
-		"SublimeLinter-jshint",
 		"SublimeLinter-php",
 		"Theme - Afterglow",
 		"Zeal"
