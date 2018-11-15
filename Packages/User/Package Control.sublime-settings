@@ -5,6 +5,7 @@
 	],
 	"installed_packages":
 	[
+		"A File Icon",
 		"AdvancedNewFile",
 		"Alignment",
 		"ApacheConf",
@@ -33,9 +34,9 @@
 		"Sublime Tutor",
 		"SublimeCodeIntel",
 		"SublimeLinter",
-		"SublimeLinter-contrib-jslint",
 		"SublimeLinter-contrib-scss-lint",
 		"SublimeLinter-csslint",
+		"SublimeLinter-jshint",
 		"SublimeLinter-php",
 		"Theme - Afterglow",
 		"Zeal"

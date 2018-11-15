@@ -1,14 +1,14 @@
 // SublimeLinter Settings - User
 {
-    "linters": {
-		"jslint": {
-            "@disable": false,
-            "args": [],
-            "excludes": [
-                "*.html"
-            ]
-        },
-    },
+    // "linters": {
+		  //   "jslint": {
+    //         "@disable": false,
+    //         "args": [],
+    //         "excludes": [
+    //             "*.html"
+    //         ]
+    //     },
+    // },
     "paths": {
         "linux": [],
         "osx": [],
